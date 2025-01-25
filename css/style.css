@@ -277,7 +277,7 @@ svg{
         transform: scaleX(-1);
     }
 
-    .card{
+    .card center{
         font-size: 20px;
     }
 
