@@ -272,6 +272,7 @@ svg{
     }
 
     #dibujo{
+        display: none;
         left: 70%;
         bottom: 45%;
         height: 18%;
