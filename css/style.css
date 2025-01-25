@@ -286,13 +286,14 @@ svg{
 
     .team{
         flex-direction: column;
+        align-items: center;
     }
 
     .card{
         gap: 10%;
         display: flex;
         flex-direction: row;
-        width: 85%;
+        width: 80%;
     }
 
     .card img{
